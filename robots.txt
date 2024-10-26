@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efodaiwi.github.io/sitemap_index.efodaiwi
